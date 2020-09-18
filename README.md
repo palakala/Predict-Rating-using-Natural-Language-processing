@@ -1,3 +1,3 @@
 # Predict-Rating-using-Natural-Language-processing
 
-Performed Data Cleaning.
+Performed Data Cleaning and Data Deduplication.
